@@ -1,7 +1,7 @@
 # pdf-crop-splitter
 spilits scanned pdf pages at midpoint
 
-converts scanned pdf materials like this
+converts scanned pdf materials that are like this
 
 ![input](./images/1.png)
 
