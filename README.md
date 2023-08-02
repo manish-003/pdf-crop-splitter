@@ -6,6 +6,7 @@ converts scanned pdf materials like this
 ![input](./images/1.png)
 
 to this
+
 ![output page 1](./images/2.png)
 
 ![output page 2](./images/3.png)
